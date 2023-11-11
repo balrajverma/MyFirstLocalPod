@@ -1,0 +1,16 @@
+PODS:
+  - MyFirstLocalPod (0.1.0)
+
+DEPENDENCIES:
+  - MyFirstLocalPod (from `../`)
+
+EXTERNAL SOURCES:
+  MyFirstLocalPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyFirstLocalPod: ce83472cb3957e57c57b0e5524c5d69c1aeecd61
+
+PODFILE CHECKSUM: f62a0e8071b17677e518295e0f559b136ee15436
+
+COCOAPODS: 1.12.1

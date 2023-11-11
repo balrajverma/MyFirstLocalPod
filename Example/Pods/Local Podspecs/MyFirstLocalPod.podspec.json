@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstLocalPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstLocalPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Balraj V/MyFirstLocalPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Balraj V": "verbalraj@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Balraj V/MyFirstLocalPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyFirstLocalPod/Classes/**/*"
+}
